@@ -1,0 +1,2 @@
+# One-Model-Fits-You_Controlling-Large-Language-Models-through-Personality-Vector-Merging
+This master’s thesis extends my prior work presented at EMNLP 2025, which introduced personality vector merging as a method for controlling LLM behavior. While the conference paper focused on technical validation, this thesis includes expanded user studies, statistical analysis, and deeper discussion on limitations and future directions.
