@@ -63,5 +63,6 @@ Structure
 
 - `image/` : 아키텍처 이미지  
 - `docs/` : 기획 문서
+ - `docs/PRDv3_최종.md` ： 최종 PRD 문서
 
 ---
