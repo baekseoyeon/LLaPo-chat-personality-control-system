@@ -2,15 +2,11 @@
 ### LLaPo-chat: Slider-based Personality Control for LLM Chatbots
 
 ### Paper
-One Model Fits You: Personality Customization in LLM-based Chatbots via Model Merging (-ing)
+One Model Fits You: Personality Customization in LLM-based Chatbots via Model Merging (CHI 2026 투고중)
 
 ---
 
 ### LLaPo-chat Project
-<p align="center">
-  <img src="image/llapo_chat.png" width="500" alt="LLaPo-chat Overview" />
-</p>
-
 > 사용자가 슬라이더로 LLM의 Big Five 성격(방향/강도/조합)을 조절하고 그 “통제감(User-control)”이 대화 UX(특히 Enjoyment)에 미치는 영향을 검증한 대화형 AI 개인화 제어 시스템입니다.
 
 ---
@@ -30,6 +26,9 @@ Approach
 * paper: [![arXiv](https://img.shields.io/badge/arXiv-2509.19727-b31b1b.svg)](https://arxiv.org/abs/2509.19727)
 
 ### 2) 사용자 통제 UX: Slider → Merge → Chat → Reset/Survey
+<p align="center">
+  <img src="image/llapo_chat.png" width="800" alt="LLaPo-chat Overview" />
+</p>
 - LLaPo-chat은 (a) 성격 조절 (b) 머지 (c) 대화 단계로 구성됩니다.
 - 사용자는 언제든지 부여한 성격을 변경 및 리셋 가능합니다.
 - 리셋 시점에 “내가 실제로 느낀 성격”을 기록해 조절-인지 정합성(사용자가 부여한 성격 vs 사용자가 실제로 느낀 성격) 분석이 가능하도록 설계했습니다.
