@@ -120,6 +120,7 @@ Reset 기능
 
 측정
 - Post-survey
+  - docs/survey-notes.md 에 기재 
   - 공통(1–15): Satisfaction(6) + Enjoyment(9)
   - LLaPo-chat만 추가(16–33): User-control(18)
   - reverse-coded: 26, 28
