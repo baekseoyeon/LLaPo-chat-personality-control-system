@@ -9,7 +9,7 @@ LLM 성격을 **프롬프트가 아닌 모델 레벨(Personality Vector merging)
 
 * 슬라이더 UX: 카카오 같이가치 big5 성격검사 참고
 <p align="center">
-  <img src="image/카카오-ocean.png" width="300" alt="Personality Vector Merging Architecture" />
+  <img src="../image/카카오-ocean.png" width="300" alt="Personality Vector Merging Architecture" />
 </p>
 
 - 연구 스타일: **HCI/UX 중심 + 모델 제어(merging) 기반 구현**
@@ -23,7 +23,7 @@ LLM 성격을 **프롬프트가 아닌 모델 레벨(Personality Vector merging)
 
 ### Success Criteria (v1)
 <p align="center">
-  <img src="image/llapo-chat-초안.png" width="600" alt="Personality Vector Merging Architecture" />
+  <img src="../image/llapo-chat-초안.png" width="600" alt="Personality Vector Merging Architecture" />
 </p>
 
 - 사용자는 슬라이더만으로 “성격이 바뀌었다”를 체감한다.  
