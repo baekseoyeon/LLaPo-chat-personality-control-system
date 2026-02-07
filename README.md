@@ -8,7 +8,7 @@ One Model Fits You: Personality Customization in LLM-based Chatbots via Model Me
 
 ### LLaPo-chat Project
 <p align="center">
-  <img src="image/llapo_chat.pdf" width="500" alt="LLaPo-chat Overview" />
+  <img src="image/llapo_chat.png" width="500" alt="LLaPo-chat Overview" />
 </p>
 
 > 사용자가 슬라이더로 LLM의 Big Five 성격(방향/강도/조합)을 조절하고 그 “통제감(User-control)”이 대화 UX(특히 Enjoyment)에 미치는 영향을 검증한 대화형 AI 개인화 제어 시스템입니다.
