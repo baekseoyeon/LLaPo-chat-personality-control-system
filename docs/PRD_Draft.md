@@ -21,7 +21,7 @@ LLM 성격을 **프롬프트가 아닌 모델 레벨(Personality Vector merging)
 
 ### Success Criteria (v1)
 <p align="center">
-  <img src="../image/llapo-chat-초안.png" width="600" alt="Personality Vector Merging Architecture" />
+  <img src="../image/llapo-chat-ui-draft.png" width="600" alt="Personality Vector Merging Architecture" />
 </p>
 
 - 사용자는 슬라이더만으로 “성격이 바뀌었다”를 체감한다.  
