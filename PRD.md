@@ -3,9 +3,14 @@
 
 ---
 
-## 0. Context (why this exists)
+## 0. Context
 LLM 성격을 **프롬프트가 아닌 모델 레벨(Personality Vector merging)** 로 미세 조절하고,  
 이를 사용자가 직접 조절 가능한 **슬라이더 UX**로 제공했을 때 UX(특히 Enjoyment / User-control)가 실제로 개선되는지 검증한다.
+
+* 슬라이더 UX: 카카오 같이가치 big5 성격검사 참고
+<p align="center">
+  <img src="image/카카오-ocean.png" width="300" alt="Personality Vector Merging Architecture" />
+</p>
 
 - 연구 스타일: **HCI/UX 중심 + 모델 제어(merging) 기반 구현**
 - 평가 구조: **사용자에게 task 수행 → 설문 + LLM eval(의도대로 움직였는지)**
@@ -17,6 +22,10 @@ LLM 성격을 **프롬프트가 아닌 모델 레벨(Personality Vector merging)
 이 조절 경험이 **통제감(User-control)** 및 **즐거움(Enjoyment)** 에 주는 영향을 측정한다.
 
 ### Success Criteria (v1)
+<p align="center">
+  <img src="image/llapo-chat-초안.png" width="600" alt="Personality Vector Merging Architecture" />
+</p>
+
 - 사용자는 슬라이더만으로 “성격이 바뀌었다”를 체감한다.  
 - 실험 설계에서 A/B 조건이 **동일한 흐름**으로 진행된다(차이는 control 가능 여부만).
 - 로그/시간/phase가 안정적으로 기록된다(실험 운영 가능 수준).
