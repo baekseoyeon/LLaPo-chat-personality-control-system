@@ -48,7 +48,7 @@ Approach
 
 ## Results
 - 15개 공통 문항 평균에서 **LLaPo-chat이 LLaPo-base보다 높음** (5.044 vs 4.360, p=0.015)
-- 세부적으로는 **Enjoyment가 유의미하게 증가** (p=0.002), Satisfaction은 유의미 차이 없음(p=0.174 
+- 세부적으로는 **Enjoyment가 유의미하게 증가** (p=0.002), Satisfaction은 유의미 차이 없음(p=0.174)
 
 ---
 
