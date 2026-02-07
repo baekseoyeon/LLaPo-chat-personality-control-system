@@ -1,7 +1,7 @@
 # LLaPo-chat: 슬라이더를 통한 AI 성격 부여 기반의 사용자 중심 Chatbot 시스템
 ### LLaPo-chat: Slider-based Personality Control for LLM Chatbots
 <p align="center">
-  <img src="image/LLaPo-chat.png" width="800" alt="LLaPo-chat Overview" />
+  <img src="image/LLaPo-chat-main.png" width="800" alt="LLaPo-chat Overview" />
 </p>
 
 ### Paper
